@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """FIFO Cache Replacement Implementation Class
 """
